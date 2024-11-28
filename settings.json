@@ -4,9 +4,6 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
   },
-  "workbench.colorTheme": "Tokyo Night",
-  "workbench.iconTheme": "material-icon-theme",
-  "windsurf.autocompleteSpeed": "fast",
   "vim.insertModeKeyBindings": [
     {
       "before": ["j", "j"],
@@ -18,7 +15,6 @@
   "vim.useSystemClipboard": true,
   "vim.leader": "<space>",
   "vim.normalModeKeyBindings": [
-    // ...
     {
       "before": ["<leader>", "e"],
       "commands": ["workbench.view.explorer"]
